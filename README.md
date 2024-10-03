@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vijay Pal</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0021.gif" alt="" width="250">
+<img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0021.gif" alt="" width="250" style="align-items: center;">
 - 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
