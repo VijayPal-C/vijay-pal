@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vijay Pal</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img src="[https://media.giphy.com/media/K5kfQxKk731K/giphy.gif](https://cdn.pixabay.com/video/2017/12/05/13232-246463976_large.mp4)" alt="">
+<video controls autoplay muted loop src="https://cdn.pixabay.com/video/2017/12/05/13232-246463976_large.mp4" width ="100"></video>
 - 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
