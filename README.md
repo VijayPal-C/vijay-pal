@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vijay Pal</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-
+<img src="https://imgs.search.brave.com/73eYcizIXfngR_WGmr924CE0PYcGVz0MBHpuAp7RBT0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9ib3ktY2FydG9v/bi1jaGFyYWN0ZXIt/c3Vycm91bmRlZC1i/eS10ZWNobm9sb2d5/XzkyNjE5OS00MTU4/OTI0LmpwZz9zaXpl/PTYyNiZleHQ9anBn" alt="">
 - 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
